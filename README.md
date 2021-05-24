@@ -1,2 +1,2 @@
 # LogisticRegression
-DEvelopment of a logistic regression from scratch
+Development of a logistic regression from scratch
